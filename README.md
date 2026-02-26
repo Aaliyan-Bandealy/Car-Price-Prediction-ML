@@ -85,7 +85,7 @@ The workflow includes:
 ##  How to Run the Project
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/Car-Price-Prediction-ML.git
+   git clone https://github.com/aaliyan-bandealy/Car-Price-Prediction-ML.git
 
 2. Navigate into the project folder:
    cd Car-Price-Prediction-ML
